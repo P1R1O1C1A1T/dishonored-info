@@ -1,0 +1,204 @@
+body {
+    background: linear-gradient(45deg, red, darkblue);
+}
+.allabout {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 7px;
+    margin-bottom: 30px;
+}
+.logodishonored {
+    margin-left: 32%;
+    margin-bottom: 2%;
+}
+.frstpar {
+    color: red;
+    font-size: 190%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.text1 {
+    color: white;
+    margin-left: 5%;
+    font-size: 135%;
+}
+.img1 {
+    margin-right: 6%;
+}
+.text2 {
+    color: white;
+    margin-left: 5%;
+    font-size: 135%;
+}
+.support {
+    color: aqua;
+    margin-left: 35px;
+    text-decoration: none;
+    transition: color 0.4s linear;
+    text-transform:uppercase;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.support:hover {
+    color: yellow;
+}
+.img2 {
+    margin-left: 5%;
+    border-radius: 30px;
+}
+.text3 {
+    color: white;
+    font-size: 135%;
+    margin-right: 5%;
+    margin-top: -0.5%;
+    margin-left: 41%;
+}
+.text4 {
+    color: white;
+    font-size: 135%;
+    margin-right: 5%;
+    margin-left: 41%;
+}
+.hr1 {
+    margin-top: 2%;
+}
+.gameplay {
+    color: red;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.ramkavideo {
+    background-color: #210044;
+    color: white;
+    margin-left: 28%;
+    margin-right: 29%;
+    padding: 3%;
+    border-radius: 60px;
+}
+.gameplaytext {
+    color: white;
+    font-size: 150%;
+    margin-left: 5%;
+}
+.gptext1 {
+    color: white;
+    font-size: 135%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.gptext2 {
+    color: white;
+    font-size: 135%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.gptext3 {
+    color: white;
+    font-size: 135%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.gptext4 {
+    color: white;
+    font-size: 135%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.gpimg1 {
+    margin-left: 30%;
+}
+.gptext5 {
+    color: white;
+    font-size: 135%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.gpimg2 {
+    margin-left: 38%;
+}
+.gpimg3 {
+    margin-right: 5%;
+    margin-top: 1%;
+}
+.gptext6 {
+    color: white;
+    font-size: 135%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+.synopsis {
+    color: red;
+    margin-left: 5%;
+}
+.setting {
+    color: #007ACC;
+    margin-left: 5%;
+}
+.sysetting {
+    color: white;
+    font-size: 135%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.sytext1 {
+    color: white;
+    font-size: 135%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+}
+.syimg1 {
+    margin-left: 5%;
+}
+.characters {
+    color: #007ACC;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.sytext2 {
+    color: white;
+    font-size: 135%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.timecodes {
+    background-color: #99A3BE;
+    border: 4px solid red;
+    margin-left: 70%;
+    margin-right: 8%;
+    border-radius: 80px;
+    padding: 10px;
+    height: 290px;
+}
+.tmcdtext {
+    text-align: center;
+    color: #FF0000;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.plot {
+    color: #007ACC;
+    margin-left: 5%;
+}
+.plotimg {
+    margin-left: 5%;
+}
+.sytext3 {
+    color: white;
+    font-size: 135%;
+    margin-right: 5%;
+}
+.sytext3 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.nodec {
+    text-decoration: none;
+    transition: font-size 0.01s linear;
+    color: cyan;
+}
+.nodec:hover {
+    color: yellow;
+    font-size: 20px;
+}
