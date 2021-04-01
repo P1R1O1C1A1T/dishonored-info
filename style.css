@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#28653D 2%, #2F0094 100%)
+    background: linear-gradient(#0098BE 0.1%, #2F0094 100%)
 }
 .allabout {
     font-size: 50px;
@@ -11,6 +11,7 @@ body {
 .logodishonored {
     margin-left: 32%;
     margin-bottom: 2%;
+    max-width: 100%;
 }
 .frstpar {
     color: red;
@@ -25,6 +26,7 @@ body {
 }
 .img1 {
     margin-right: 6%;
+    max-width: 100%;
 }
 .text2 {
     color: white;
@@ -44,6 +46,7 @@ body {
 }
 .img2 {
     margin-left: 5%;
+    max-width: 100%;
 }
 .text3 {
     color: white;
@@ -61,13 +64,16 @@ body {
 .hr1 {
     margin-top: 2%;
 }
+.video1 {
+    max-width: 100%;
+}
 .gameplay {
     color: red;
     margin-left: 5%;
     margin-top: 2%;
 }
 .ramkavideo {
-    background-color: #244743;
+    background: linear-gradient(29deg, #0098BE 50%, #007694 50%);
     color: white;
     margin-left: 28%;
     margin-right: 29%;
@@ -105,6 +111,7 @@ body {
 }
 .gpimg1 {
     margin-left: 30%;
+    max-width: 100%;
 }
 .gptext5 {
     color: white;
@@ -114,10 +121,12 @@ body {
 }
 .gpimg2 {
     margin-left: 38%;
+    max-width: 100%;
 }
 .gpimg3 {
     margin-right: 5%;
     margin-top: 1%;
+    max-width: 100%;
 }
 .gptext6 {
     color: white;
@@ -149,6 +158,7 @@ body {
 }
 .syimg1 {
     margin-left: 5%;
+    max-width: 100%;
 }
 .characters {
     color: #007ACC;
@@ -162,18 +172,20 @@ body {
     margin-right: 5%;
 }
 .timecodes {
-    background: linear-gradient(red 50% , blue 100%);
+    background: linear-gradient(45deg, red 20% , blue 100%);
     border: 4px solid #2F0590;
     margin-left: 70%;
     margin-right: 8%;
     border-radius: 80px;
     padding: 10px;
     height: 270px;
+    max-width: 100%;
 }
 .tmcdtext {
     text-align: center;
     color: #2F0590;
     font-size: 30px;
+    max-width: 100%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .plot {
@@ -182,6 +194,7 @@ body {
 }
 .plotimg {
     margin-left: 5%;
+    max-width: 100%;
 }
 .sytext3 {
     color: white;
@@ -203,6 +216,7 @@ body {
 }
 .imgdesign {
     margin-left: 5%;
+    max-width: 100%;
 }
 .fontimpactfantasy {
     font-family: Marker Felt, fantasy;
@@ -214,21 +228,20 @@ body {
 }
 .steam {
     text-transform: uppercase;
-    color: #2B7ACA;
+    color: #1A86D4;
     text-align: center;
     font-size: 180%;
 }
 .gmg {
     text-transform: uppercase;
-    color: #00E205;
+    color: #00B853;
     text-align: center;
     font-size: 180%;
 }
 .steamimg {
     float: right;
     transition: opacity 0.2s linear;
-
-
+    max-width: 100%;
 }
 .steamimg:hover {
     opacity: 0.7;   
@@ -236,6 +249,7 @@ body {
 .gmgimg {
     transition: opacity 0.2s linear;
     float: left;
+    max-width: 100%;
 }
 .gmgimg:hover {
     visibility: none;
@@ -249,6 +263,7 @@ body {
     width: 700px;
     height: 300px;
     margin-left: 30%;
+    max-width: 100%;
 }
 .vercost {
     text-align: center;
@@ -267,4 +282,24 @@ body {
     margin-bottom: -10px;
     width: 94.98%;
     height: 200px;
+    max-width: 100%;
+}
+.paddingfooter {
+    margin-left: 30px;
+    color: #676767;
+}
+.mywebs {
+    float: right;
+}
+.mysoc {
+    padding: 5px;
+}
+.header {
+    width: 2100px;
+    height: 60px;
+    max-width: 100%;
+    background-color: #1C0259;
+    color: white;
+    
+    margin-top: -10px;
 }
